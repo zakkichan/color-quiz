@@ -105,6 +105,9 @@ body {
 }
 
 @media (max-width: 670px) {
+  body {
+    font-size: 30px;
+  }
   .container {
     width: 90%;
   }
